@@ -3,3 +3,4 @@ torch
 clip-by-openai
 scikit-learn
 tensorflow
+opencv-python
